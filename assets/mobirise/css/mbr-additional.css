@@ -933,7 +933,7 @@ a {
   }
 }
 .cid-ui1DsA47PZ .iconfont-wrapper {
-  color: #000000 !important;
+  color: #9fe870 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -945,7 +945,8 @@ a {
   border-radius: 1.5rem;
   transition: 0.3s all !important;
   min-width: auto;
-  background: #ffffff;
+  background: #000000;
+  background: rgba(0, 0, 0, 0.9) !important;
 }
 .cid-ui1DsA47PZ .nav-item:focus,
 .cid-ui1DsA47PZ .nav-link:focus {
@@ -1102,7 +1103,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1182,11 +1183,11 @@ a {
 }
 .cid-ui1DsA47PZ .navbar-dropdown {
   padding: 0;
-  background-color: #ffffff !important;
+  background: rgba(0, 0, 0, 0.9) !important;
   position: fixed;
 }
 .cid-ui1DsA47PZ .opacityScroll {
-  background: rgba(255, 255, 255, 0) !important;
+  background: #000000 !important;
 }
 .cid-ui1DsA47PZ a.nav-link {
   display: flex;
@@ -1271,7 +1272,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #ffffff;
+    background: #000000;
+    opacity: 1;
+    border-color: rgba(0, 0, 0, 0.9) !important;
+    background: rgba(0, 0, 0, 0.9) !important;
     backdrop-filter: blur(8px);
   }
   .cid-ui1DsA47PZ .navbar-nav .nav-item .nav-link::after {
@@ -1591,7 +1595,7 @@ a {
   }
 }
 .cid-ui1DsA47PZ .iconfont-wrapper {
-  color: #000000 !important;
+  color: #9fe870 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1603,7 +1607,8 @@ a {
   border-radius: 1.5rem;
   transition: 0.3s all !important;
   min-width: auto;
-  background: #ffffff;
+  background: #000000;
+  background: rgba(0, 0, 0, 0.9) !important;
 }
 .cid-ui1DsA47PZ .nav-item:focus,
 .cid-ui1DsA47PZ .nav-link:focus {
@@ -1760,7 +1765,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1840,11 +1845,11 @@ a {
 }
 .cid-ui1DsA47PZ .navbar-dropdown {
   padding: 0;
-  background-color: #ffffff !important;
+  background: rgba(0, 0, 0, 0.9) !important;
   position: fixed;
 }
 .cid-ui1DsA47PZ .opacityScroll {
-  background: rgba(255, 255, 255, 0) !important;
+  background: #000000 !important;
 }
 .cid-ui1DsA47PZ a.nav-link {
   display: flex;
@@ -1929,7 +1934,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #ffffff;
+    background: #000000;
+    opacity: 1;
+    border-color: rgba(0, 0, 0, 0.9) !important;
+    background: rgba(0, 0, 0, 0.9) !important;
     backdrop-filter: blur(8px);
   }
   .cid-ui1DsA47PZ .navbar-nav .nav-item .nav-link::after {
@@ -2232,7 +2240,7 @@ a {
   }
 }
 .cid-ui1DsA47PZ .iconfont-wrapper {
-  color: #000000 !important;
+  color: #9fe870 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -2244,7 +2252,8 @@ a {
   border-radius: 1.5rem;
   transition: 0.3s all !important;
   min-width: auto;
-  background: #ffffff;
+  background: #000000;
+  background: rgba(0, 0, 0, 0.9) !important;
 }
 .cid-ui1DsA47PZ .nav-item:focus,
 .cid-ui1DsA47PZ .nav-link:focus {
@@ -2401,7 +2410,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-ui1DsA47PZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2481,11 +2490,11 @@ a {
 }
 .cid-ui1DsA47PZ .navbar-dropdown {
   padding: 0;
-  background-color: #ffffff !important;
+  background: rgba(0, 0, 0, 0.9) !important;
   position: fixed;
 }
 .cid-ui1DsA47PZ .opacityScroll {
-  background: rgba(255, 255, 255, 0) !important;
+  background: #000000 !important;
 }
 .cid-ui1DsA47PZ a.nav-link {
   display: flex;
@@ -2570,7 +2579,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #ffffff;
+    background: #000000;
+    opacity: 1;
+    border-color: rgba(0, 0, 0, 0.9) !important;
+    background: rgba(0, 0, 0, 0.9) !important;
     backdrop-filter: blur(8px);
   }
   .cid-ui1DsA47PZ .navbar-nav .nav-item .nav-link::after {
